@@ -3,7 +3,7 @@ Bu proje, Spotify veri setindeki şarkı özelliklerini (audio features) kullana
 
 ## 📊 Veri Seti Özeti
 Çalışmada kullanılan veri seti, yaklaşık 30.000 şarkıya ait teknik özellikleri içermektedir.
-* **Kaynak:** Kaggle / TidyTuesday Spotify Dataset
+* **Kaynak:** [VeriSeti](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-01-21/spotify_songs.csv)
 * **Hedef Değişken:** `track_popularity` (0-100 arası skor)
 * **Özellikler:** Danceability, Energy, Key, Loudness, Acousticness, Instrumentalness, Valence, Tempo, vb.
 
